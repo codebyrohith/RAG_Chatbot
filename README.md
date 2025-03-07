@@ -147,12 +147,6 @@ python retrieval.py
 
 ---
 
-## 📜 License
-
-This project is licensed under the **MIT License**.
-
----
-
 ## 💡 Future Enhancements
 
 - ✅ **Support real-time Wikipedia search**
